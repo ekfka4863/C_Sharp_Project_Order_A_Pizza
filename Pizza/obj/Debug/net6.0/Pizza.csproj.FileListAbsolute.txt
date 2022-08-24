@@ -1,0 +1,15 @@
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\bin\Debug\net6.0\Pizza.exe
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\bin\Debug\net6.0\Pizza.deps.json
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\bin\Debug\net6.0\Pizza.runtimeconfig.json
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\bin\Debug\net6.0\Pizza.dll
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\bin\Debug\net6.0\Pizza.pdb
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\obj\Debug\net6.0\Pizza.csproj.AssemblyReference.cache
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\obj\Debug\net6.0\Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\obj\Debug\net6.0\Pizza.AssemblyInfoInputs.cache
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\obj\Debug\net6.0\Pizza.AssemblyInfo.cs
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\obj\Debug\net6.0\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\obj\Debug\net6.0\Pizza.dll
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\obj\Debug\net6.0\refint\Pizza.dll
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\obj\Debug\net6.0\Pizza.pdb
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\obj\Debug\net6.0\Pizza.genruntimeconfig.cache
+C:\Users\콰 가1\OneDrive\바탕 화면\c#_STUDY\Pizza\Pizza\obj\Debug\net6.0\ref\Pizza.dll
